@@ -1,2 +1,2 @@
 # roll
-roll. is an app designed for longboarders and skaters
+roll. is an app designed for longboarders
